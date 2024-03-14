@@ -13,6 +13,7 @@ public class WheelManager : MonoBehaviour
 
     [SerializeField] private float currentRotationSpeed;
 
+    private AudioSource aud;
     private void Awake()
     {
         instance = this;
@@ -20,16 +21,17 @@ public class WheelManager : MonoBehaviour
     }
     private void Start()
     {
-        currentRotationSpeed = 5;
+        aud= GetComponent<AudioSource>();
+        currentRotationSpeed = 1;
     }
     public void SpinTheWheel()
     {
         spinWheel.interactable = false;
         isWheelSpinned = true;
         isWheelStopped = false;
-        currentRotationSpeed = 5;
-        currentRotationSpeed = 1000 * spinWheelSpeed;
-
+        currentRotationSpeed = 1;
+        currentRotationSpeed = 200 * spinWheelSpeed;
+        aud.Play();
         Invoke("StopSpinWheel", 5f);
     }
 
