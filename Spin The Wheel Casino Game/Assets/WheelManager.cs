@@ -11,20 +11,26 @@ public class WheelManager : MonoBehaviour
     public bool isWheelSpinned;
     public bool isWheelStopped;
 
-    private float currentRotationSpeed;
+    [SerializeField] private float currentRotationSpeed;
 
     private void Awake()
     {
         instance = this;
         spinWheel.onClick.AddListener(SpinTheWheel);
     }
-
+    private void Start()
+    {
+        currentRotationSpeed = 5;
+    }
     public void SpinTheWheel()
     {
         spinWheel.interactable = false;
         isWheelSpinned = true;
         isWheelStopped = false;
+        currentRotationSpeed = 5;
         currentRotationSpeed = 1000 * spinWheelSpeed;
+
+        Invoke("StopSpinWheel", 5f);
     }
 
     private void Update()
@@ -32,7 +38,6 @@ public class WheelManager : MonoBehaviour
         if (isWheelSpinned)
         {
             Wheel.transform.Rotate(0, 0, currentRotationSpeed * Time.deltaTime);
-            Invoke("StopSpinWheel", 5f);
         }
         if (isWheelStopped)
         {
