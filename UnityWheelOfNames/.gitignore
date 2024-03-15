@@ -1,0 +1,122 @@
+
+*.meta
+Spin The Wheel Casino Game/.vsconfig
+Spin The Wheel Casino Game/Assets/Audio.meta
+Spin The Wheel Casino Game/Assets/Audio/WheelSoundEffect.mp3
+Spin The Wheel Casino Game/Assets/Audio/WheelSoundEffect.mp3.meta
+Spin The Wheel Casino Game/Assets/Images.meta
+Spin The Wheel Casino Game/Assets/Images/arrow.png
+Spin The Wheel Casino Game/Assets/Images/arrow.png.meta
+Spin The Wheel Casino Game/Assets/Images/SpinWheel.png
+Spin The Wheel Casino Game/Assets/Images/SpinWheel.png.meta
+Spin The Wheel Casino Game/Assets/Scenes.meta
+Spin The Wheel Casino Game/Assets/Scenes/SampleScene.unity
+Spin The Wheel Casino Game/Assets/Scenes/SampleScene.unity.meta
+Spin The Wheel Casino Game/Assets/Scripts.meta
+Spin The Wheel Casino Game/Assets/Scripts/Arrow.cs
+Spin The Wheel Casino Game/Assets/Scripts/Arrow.cs.meta
+Spin The Wheel Casino Game/Assets/Scripts/NamesManager.cs
+Spin The Wheel Casino Game/Assets/Scripts/NamesManager.cs.meta
+Spin The Wheel Casino Game/Assets/Scripts/SaveNames.cs
+Spin The Wheel Casino Game/Assets/Scripts/SaveNames.cs.meta
+Spin The Wheel Casino Game/Assets/Scripts/WheelManager.cs
+Spin The Wheel Casino Game/Assets/Scripts/WheelManager.cs.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Documentation.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Fonts.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Sprite Assets.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Style Sheets.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/TMP Settings.asset
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMPro.cginc
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Sprites.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Sprites/EmojiOne.json
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Sprites/EmojiOne.png
+Spin The Wheel Casino Game/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+Spin The Wheel Casino Game/Packages/manifest.json
+Spin The Wheel Casino Game/Packages/packages-lock.json
+Spin The Wheel Casino Game/ProjectSettings/AudioManager.asset
+Spin The Wheel Casino Game/ProjectSettings/ClusterInputManager.asset
+Spin The Wheel Casino Game/ProjectSettings/DynamicsManager.asset
+Spin The Wheel Casino Game/ProjectSettings/EditorBuildSettings.asset
+Spin The Wheel Casino Game/ProjectSettings/EditorSettings.asset
+Spin The Wheel Casino Game/ProjectSettings/GraphicsSettings.asset
+Spin The Wheel Casino Game/ProjectSettings/InputManager.asset
+Spin The Wheel Casino Game/ProjectSettings/MemorySettings.asset
+Spin The Wheel Casino Game/ProjectSettings/NavMeshAreas.asset
+Spin The Wheel Casino Game/ProjectSettings/PackageManagerSettings.asset
+Spin The Wheel Casino Game/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+Spin The Wheel Casino Game/ProjectSettings/Physics2DSettings.asset
+Spin The Wheel Casino Game/ProjectSettings/PresetManager.asset
+Spin The Wheel Casino Game/ProjectSettings/ProjectSettings.asset
+Spin The Wheel Casino Game/ProjectSettings/ProjectVersion.txt
+Spin The Wheel Casino Game/ProjectSettings/QualitySettings.asset
+Spin The Wheel Casino Game/ProjectSettings/SceneTemplateSettings.json
+Spin The Wheel Casino Game/ProjectSettings/TagManager.asset
+Spin The Wheel Casino Game/ProjectSettings/TimeManager.asset
+Spin The Wheel Casino Game/ProjectSettings/UnityConnectSettings.asset
+Spin The Wheel Casino Game/ProjectSettings/VersionControlSettings.asset
+Spin The Wheel Casino Game/ProjectSettings/VFXManager.asset
+Spin The Wheel Casino Game/ProjectSettings/XRSettings.asset
+Spin The Wheel Casino Game/Spin The Wheel Casino Game - Shortcut.lnk
