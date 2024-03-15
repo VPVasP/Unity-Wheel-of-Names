@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Name
   - Arrow
+  - NamePanel
+  - NamesPanelnputFields
   layers:
   - Default
   - TransparentFX

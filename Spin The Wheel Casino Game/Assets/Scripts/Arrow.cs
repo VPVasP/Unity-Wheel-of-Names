@@ -4,35 +4,38 @@ using UnityEngine;
 public class Arrow : MonoBehaviour
 {
     public bool collided;
-    [SerializeField] private GameObject panel;
-    private TextMeshProUGUI text;
+    private GameObject namePanel;
+    private TextMeshProUGUI wheelText;
     private void Start()
     {
-        panel.SetActive(false);
-        text = panel.GetComponentInChildren<TextMeshProUGUI>();
+        //Find the Name Panel,disable it and get assign the wheel text
+        namePanel = GameObject.FindGameObjectWithTag("NamePanel");
+        namePanel.SetActive(false);
+        wheelText = namePanel.GetComponentInChildren<TextMeshProUGUI>();
     }
     private void Update()
     {
+        //if the wheel is stopped activate the panel 
         if (WheelManager.instance.isWheelStopped)
         {
             collided = true;
-            panel.SetActive(true);
+            namePanel.SetActive(true);
         }
+        //if the wheel isn't stopped disable the panel
         else
         {
             collided = false;
-            panel.SetActive(false);
+            namePanel.SetActive(false);
         }
     }
     private void OnTriggerStay2D(Collider2D collision)
     {
         
-   
+        //if it has been collided and the collision tag is Name
         if (collided && collision.CompareTag("Name"))
         {
-            
-            Debug.Log("Entered" +collision.name);
-            text.text = "Your Name is " + collision.GetComponent<TextMeshProUGUI>().text;
+            //The Wheel text gets the value of the collision text
+            wheelText.text = "Your Name is " + collision.GetComponent<TextMeshProUGUI>().text;
         }
        
     }
